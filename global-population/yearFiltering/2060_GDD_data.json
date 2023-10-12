@@ -1,0 +1,1040 @@
+[
+  {
+    "ISO3 Alpha-code": "BDI",
+    "Region, subregion, country or area *": "Burundi",
+    "Year": 2060,
+    "POP_EST": 27968.53
+  },
+  {
+    "ISO3 Alpha-code": "DJI",
+    "Region, subregion, country or area *": "Djibouti",
+    "Year": 2060,
+    "POP_EST": 1581.777
+  },
+  {
+    "ISO3 Alpha-code": "ERI",
+    "Region, subregion, country or area *": "Eritrea",
+    "Year": 2060,
+    "POP_EST": 6686.746
+  },
+  {
+    "ISO3 Alpha-code": "ETH",
+    "Region, subregion, country or area *": "Ethiopia",
+    "Year": 2060,
+    "POP_EST": 244468.886
+  },
+  {
+    "ISO3 Alpha-code": "KEN",
+    "Region, subregion, country or area *": "Kenya",
+    "Year": 2060,
+    "POP_EST": 93920.914
+  },
+  {
+    "ISO3 Alpha-code": "MDG",
+    "Region, subregion, country or area *": "Madagascar",
+    "Year": 2060,
+    "POP_EST": 59179.612
+  },
+  {
+    "ISO3 Alpha-code": "MWI",
+    "Region, subregion, country or area *": "Malawi",
+    "Year": 2060,
+    "POP_EST": 42687.233
+  },
+  {
+    "ISO3 Alpha-code": "MOZ",
+    "Region, subregion, country or area *": "Mozambique",
+    "Year": 2060,
+    "POP_EST": 73579.776
+  },
+  {
+    "ISO3 Alpha-code": "RWA",
+    "Region, subregion, country or area *": "Rwanda",
+    "Year": 2060,
+    "POP_EST": 25961.686
+  },
+  {
+    "ISO3 Alpha-code": "SOM",
+    "Region, subregion, country or area *": "Somalia",
+    "Year": 2060,
+    "POP_EST": 43546.351
+  },
+  {
+    "ISO3 Alpha-code": "SSD",
+    "Region, subregion, country or area *": "South Sudan",
+    "Year": 2060,
+    "POP_EST": 19397.717
+  },
+  {
+    "ISO3 Alpha-code": "UGA",
+    "Region, subregion, country or area *": "Uganda",
+    "Year": 2060,
+    "POP_EST": 100578.949
+  },
+  {
+    "ISO3 Alpha-code": "TZA",
+    "Region, subregion, country or area *": "United Republic of Tanzania",
+    "Year": 2060,
+    "POP_EST": 154504.323
+  },
+  {
+    "ISO3 Alpha-code": "ZMB",
+    "Region, subregion, country or area *": "Zambia",
+    "Year": 2060,
+    "POP_EST": 43543.743
+  },
+  {
+    "ISO3 Alpha-code": "ZWE",
+    "Region, subregion, country or area *": "Zimbabwe",
+    "Year": 2060,
+    "POP_EST": 29360.348
+  },
+  {
+    "ISO3 Alpha-code": "AGO",
+    "Region, subregion, country or area *": "Angola",
+    "Year": 2060,
+    "POP_EST": 86062.778
+  },
+  {
+    "ISO3 Alpha-code": "CMR",
+    "Region, subregion, country or area *": "Cameroon",
+    "Year": 2060,
+    "POP_EST": 59566.991
+  },
+  {
+    "ISO3 Alpha-code": "CAF",
+    "Region, subregion, country or area *": "Central African Republic",
+    "Year": 2060,
+    "POP_EST": 13561.801
+  },
+  {
+    "ISO3 Alpha-code": "TCD",
+    "Region, subregion, country or area *": "Chad",
+    "Year": 2060,
+    "POP_EST": 43373.976
+  },
+  {
+    "ISO3 Alpha-code": "COG",
+    "Region, subregion, country or area *": "Congo",
+    "Year": 2060,
+    "POP_EST": 11922.244
+  },
+  {
+    "ISO3 Alpha-code": "COD",
+    "Region, subregion, country or area *": "Democratic Republic of the Congo",
+    "Year": 2060,
+    "POP_EST": 264317.235
+  },
+  {
+    "ISO3 Alpha-code": "GNQ",
+    "Region, subregion, country or area *": "Equatorial Guinea",
+    "Year": 2060,
+    "POP_EST": 3108.065
+  },
+  {
+    "ISO3 Alpha-code": "GAB",
+    "Region, subregion, country or area *": "Gabon",
+    "Year": 2060,
+    "POP_EST": 4166.455
+  },
+  {
+    "ISO3 Alpha-code": "DZA",
+    "Region, subregion, country or area *": "Algeria",
+    "Year": 2060,
+    "POP_EST": 63426.034
+  },
+  {
+    "ISO3 Alpha-code": "EGY",
+    "Region, subregion, country or area *": "Egypt",
+    "Year": 2060,
+    "POP_EST": 173668.201
+  },
+  {
+    "ISO3 Alpha-code": "LBY",
+    "Region, subregion, country or area *": "Libya",
+    "Year": 2060,
+    "POP_EST": 8755.728
+  },
+  {
+    "ISO3 Alpha-code": "MAR",
+    "Region, subregion, country or area *": "Morocco",
+    "Year": 2060,
+    "POP_EST": 46178.716
+  },
+  {
+    "ISO3 Alpha-code": "SDN",
+    "Region, subregion, country or area *": "Sudan",
+    "Year": 2060,
+    "POP_EST": 97763.758
+  },
+  {
+    "ISO3 Alpha-code": "TUN",
+    "Region, subregion, country or area *": "Tunisia",
+    "Year": 2060,
+    "POP_EST": 14511.698
+  },
+  {
+    "ISO3 Alpha-code": "ESH",
+    "Region, subregion, country or area *": "Western Sahara",
+    "Year": 2060,
+    "POP_EST": 919.608
+  },
+  {
+    "ISO3 Alpha-code": "BWA",
+    "Region, subregion, country or area *": "Botswana",
+    "Year": 2060,
+    "POP_EST": 3901.185
+  },
+  {
+    "ISO3 Alpha-code": "SWZ",
+    "Region, subregion, country or area *": "Eswatini",
+    "Year": 2060,
+    "POP_EST": 1781.127
+  },
+  {
+    "ISO3 Alpha-code": "LSO",
+    "Region, subregion, country or area *": "Lesotho",
+    "Year": 2060,
+    "POP_EST": 3016.235
+  },
+  {
+    "ISO3 Alpha-code": "NAM",
+    "Region, subregion, country or area *": "Namibia",
+    "Year": 2060,
+    "POP_EST": 4149.109
+  },
+  {
+    "ISO3 Alpha-code": "ZAF",
+    "Region, subregion, country or area *": "South Africa",
+    "Year": 2060,
+    "POP_EST": 75595.66
+  },
+  {
+    "ISO3 Alpha-code": "BEN",
+    "Region, subregion, country or area *": "Benin",
+    "Year": 2060,
+    "POP_EST": 29809.176
+  },
+  {
+    "ISO3 Alpha-code": "BFA",
+    "Region, subregion, country or area *": "Burkina Faso",
+    "Year": 2060,
+    "POP_EST": 46327.779
+  },
+  {
+    "ISO3 Alpha-code": "CIV",
+    "Region, subregion, country or area *": "Côte d'Ivoire",
+    "Year": 2060,
+    "POP_EST": 59836.898
+  },
+  {
+    "ISO3 Alpha-code": "GMB",
+    "Region, subregion, country or area *": "Gambia",
+    "Year": 2060,
+    "POP_EST": 5266.414
+  },
+  {
+    "ISO3 Alpha-code": "GHA",
+    "Region, subregion, country or area *": "Ghana",
+    "Year": 2060,
+    "POP_EST": 57836.382
+  },
+  {
+    "ISO3 Alpha-code": "GIN",
+    "Region, subregion, country or area *": "Guinea",
+    "Year": 2060,
+    "POP_EST": 26811.095
+  },
+  {
+    "ISO3 Alpha-code": "GNB",
+    "Region, subregion, country or area *": "Guinea-Bissau",
+    "Year": 2060,
+    "POP_EST": 3840.535
+  },
+  {
+    "ISO3 Alpha-code": "LBR",
+    "Region, subregion, country or area *": "Liberia",
+    "Year": 2060,
+    "POP_EST": 10049.548
+  },
+  {
+    "ISO3 Alpha-code": "MLI",
+    "Region, subregion, country or area *": "Mali",
+    "Year": 2060,
+    "POP_EST": 56733.592
+  },
+  {
+    "ISO3 Alpha-code": "MRT",
+    "Region, subregion, country or area *": "Mauritania",
+    "Year": 2060,
+    "POP_EST": 10407.373
+  },
+  {
+    "ISO3 Alpha-code": "NER",
+    "Region, subregion, country or area *": "Niger",
+    "Year": 2060,
+    "POP_EST": 85741.565
+  },
+  {
+    "ISO3 Alpha-code": "NGA",
+    "Region, subregion, country or area *": "Nigeria",
+    "Year": 2060,
+    "POP_EST": 426524.172
+  },
+  {
+    "ISO3 Alpha-code": "SEN",
+    "Region, subregion, country or area *": "Senegal",
+    "Year": 2060,
+    "POP_EST": 38490.167
+  },
+  {
+    "ISO3 Alpha-code": "SLE",
+    "Region, subregion, country or area *": "Sierra Leone",
+    "Year": 2060,
+    "POP_EST": 14931.452
+  },
+  {
+    "ISO3 Alpha-code": "TGO",
+    "Region, subregion, country or area *": "Togo",
+    "Year": 2060,
+    "POP_EST": 17930.094
+  },
+  {
+    "ISO3 Alpha-code": "KAZ",
+    "Region, subregion, country or area *": "Kazakhstan",
+    "Year": 2060,
+    "POP_EST": 27615.239
+  },
+  {
+    "ISO3 Alpha-code": "KGZ",
+    "Region, subregion, country or area *": "Kyrgyzstan",
+    "Year": 2060,
+    "POP_EST": 10192.65
+  },
+  {
+    "ISO3 Alpha-code": "TJK",
+    "Region, subregion, country or area *": "Tajikistan",
+    "Year": 2060,
+    "POP_EST": 16712.34
+  },
+  {
+    "ISO3 Alpha-code": "TKM",
+    "Region, subregion, country or area *": "Turkmenistan",
+    "Year": 2060,
+    "POP_EST": 8602.732
+  },
+  {
+    "ISO3 Alpha-code": "UZB",
+    "Region, subregion, country or area *": "Uzbekistan",
+    "Year": 2060,
+    "POP_EST": 47914.719
+  },
+  {
+    "ISO3 Alpha-code": "CHN",
+    "Region, subregion, country or area *": "China",
+    "Year": 2060,
+    "POP_EST": 1211118.957
+  },
+  {
+    "ISO3 Alpha-code": "TWN",
+    "Region, subregion, country or area *": "China, Taiwan Province of China",
+    "Year": 2060,
+    "POP_EST": 21013.637
+  },
+  {
+    "ISO3 Alpha-code": "PRK",
+    "Region, subregion, country or area *": "Dem. People's Republic of Korea",
+    "Year": 2060,
+    "POP_EST": 24908.586
+  },
+  {
+    "ISO3 Alpha-code": "JPN",
+    "Region, subregion, country or area *": "Japan",
+    "Year": 2060,
+    "POP_EST": 97003.071
+  },
+  {
+    "ISO3 Alpha-code": "MNG",
+    "Region, subregion, country or area *": "Mongolia",
+    "Year": 2060,
+    "POP_EST": 4780.023
+  },
+  {
+    "ISO3 Alpha-code": "KOR",
+    "Region, subregion, country or area *": "Republic of Korea",
+    "Year": 2060,
+    "POP_EST": 41132.543
+  },
+  {
+    "ISO3 Alpha-code": "AFG",
+    "Region, subregion, country or area *": "Afghanistan",
+    "Year": 2060,
+    "POP_EST": 84682.264
+  },
+  {
+    "ISO3 Alpha-code": "BGD",
+    "Region, subregion, country or area *": "Bangladesh",
+    "Year": 2060,
+    "POP_EST": 206865.372
+  },
+  {
+    "ISO3 Alpha-code": "BTN",
+    "Region, subregion, country or area *": "Bhutan",
+    "Year": 2060,
+    "POP_EST": 863.916
+  },
+  {
+    "ISO3 Alpha-code": "IND",
+    "Region, subregion, country or area *": "India",
+    "Year": 2060,
+    "POP_EST": 1694786.434
+  },
+  {
+    "ISO3 Alpha-code": "IRN",
+    "Region, subregion, country or area *": "Iran (Islamic Republic of)",
+    "Year": 2060,
+    "POP_EST": 98346.614
+  },
+  {
+    "ISO3 Alpha-code": "NPL",
+    "Region, subregion, country or area *": "Nepal",
+    "Year": 2060,
+    "POP_EST": 38418.753
+  },
+  {
+    "ISO3 Alpha-code": "PAK",
+    "Region, subregion, country or area *": "Pakistan",
+    "Year": 2060,
+    "POP_EST": 405828.429
+  },
+  {
+    "ISO3 Alpha-code": "LKA",
+    "Region, subregion, country or area *": "Sri Lanka",
+    "Year": 2060,
+    "POP_EST": 20943.494
+  },
+  {
+    "ISO3 Alpha-code": "BRN",
+    "Region, subregion, country or area *": "Brunei Darussalam",
+    "Year": 2060,
+    "POP_EST": 489.731
+  },
+  {
+    "ISO3 Alpha-code": "KHM",
+    "Region, subregion, country or area *": "Cambodia",
+    "Year": 2060,
+    "POP_EST": 20680.486
+  },
+  {
+    "ISO3 Alpha-code": "IDN",
+    "Region, subregion, country or area *": "Indonesia",
+    "Year": 2060,
+    "POP_EST": 319427.657
+  },
+  {
+    "ISO3 Alpha-code": "LAO",
+    "Region, subregion, country or area *": "Lao People's Democratic Republic",
+    "Year": 2060,
+    "POP_EST": 10158.05
+  },
+  {
+    "ISO3 Alpha-code": "MYS",
+    "Region, subregion, country or area *": "Malaysia",
+    "Year": 2060,
+    "POP_EST": 42013.835
+  },
+  {
+    "ISO3 Alpha-code": "MMR",
+    "Region, subregion, country or area *": "Myanmar",
+    "Year": 2060,
+    "POP_EST": 59645.226
+  },
+  {
+    "ISO3 Alpha-code": "PHL",
+    "Region, subregion, country or area *": "Philippines",
+    "Year": 2060,
+    "POP_EST": 167583.642
+  },
+  {
+    "ISO3 Alpha-code": "THA",
+    "Region, subregion, country or area *": "Thailand",
+    "Year": 2060,
+    "POP_EST": 63613.048
+  },
+  {
+    "ISO3 Alpha-code": "TLS",
+    "Region, subregion, country or area *": "Timor-Leste",
+    "Year": 2060,
+    "POP_EST": 1905.239
+  },
+  {
+    "ISO3 Alpha-code": "VNM",
+    "Region, subregion, country or area *": "Viet Nam",
+    "Year": 2060,
+    "POP_EST": 106213.069
+  },
+  {
+    "ISO3 Alpha-code": "ARM",
+    "Region, subregion, country or area *": "Armenia",
+    "Year": 2060,
+    "POP_EST": 2435.785
+  },
+  {
+    "ISO3 Alpha-code": "AZE",
+    "Region, subregion, country or area *": "Azerbaijan",
+    "Year": 2060,
+    "POP_EST": 10522.85
+  },
+  {
+    "ISO3 Alpha-code": "CYP",
+    "Region, subregion, country or area *": "Cyprus",
+    "Year": 2060,
+    "POP_EST": 1404.326
+  },
+  {
+    "ISO3 Alpha-code": "GEO",
+    "Region, subregion, country or area *": "Georgia",
+    "Year": 2060,
+    "POP_EST": 3223.295
+  },
+  {
+    "ISO3 Alpha-code": "IRQ",
+    "Region, subregion, country or area *": "Iraq",
+    "Year": 2060,
+    "POP_EST": 84030.181
+  },
+  {
+    "ISO3 Alpha-code": "ISR",
+    "Region, subregion, country or area *": "Israel",
+    "Year": 2060,
+    "POP_EST": 14269.127
+  },
+  {
+    "ISO3 Alpha-code": "JOR",
+    "Region, subregion, country or area *": "Jordan",
+    "Year": 2060,
+    "POP_EST": 16081.961
+  },
+  {
+    "ISO3 Alpha-code": "KWT",
+    "Region, subregion, country or area *": "Kuwait",
+    "Year": 2060,
+    "POP_EST": 5079.745
+  },
+  {
+    "ISO3 Alpha-code": "LBN",
+    "Region, subregion, country or area *": "Lebanon",
+    "Year": 2060,
+    "POP_EST": 4948.791
+  },
+  {
+    "ISO3 Alpha-code": "OMN",
+    "Region, subregion, country or area *": "Oman",
+    "Year": 2060,
+    "POP_EST": 6846.245
+  },
+  {
+    "ISO3 Alpha-code": "QAT",
+    "Region, subregion, country or area *": "Qatar",
+    "Year": 2060,
+    "POP_EST": 3562.257
+  },
+  {
+    "ISO3 Alpha-code": "SAU",
+    "Region, subregion, country or area *": "Saudi Arabia",
+    "Year": 2060,
+    "POP_EST": 50199.491
+  },
+  {
+    "ISO3 Alpha-code": "PSE",
+    "Region, subregion, country or area *": "State of Palestine",
+    "Year": 2060,
+    "POP_EST": 9980.726
+  },
+  {
+    "ISO3 Alpha-code": "SYR",
+    "Region, subregion, country or area *": "Syrian Arab Republic",
+    "Year": 2060,
+    "POP_EST": 40906.916
+  },
+  {
+    "ISO3 Alpha-code": "TUR",
+    "Region, subregion, country or area *": "Türkiye",
+    "Year": 2060,
+    "POP_EST": 96079.036
+  },
+  {
+    "ISO3 Alpha-code": "ARE",
+    "Region, subregion, country or area *": "United Arab Emirates",
+    "Year": 2060,
+    "POP_EST": 12065.192
+  },
+  {
+    "ISO3 Alpha-code": "YEM",
+    "Region, subregion, country or area *": "Yemen",
+    "Year": 2060,
+    "POP_EST": 61449.791
+  },
+  {
+    "ISO3 Alpha-code": "BLR",
+    "Region, subregion, country or area *": "Belarus",
+    "Year": 2060,
+    "POP_EST": 7975.531
+  },
+  {
+    "ISO3 Alpha-code": "BGR",
+    "Region, subregion, country or area *": "Bulgaria",
+    "Year": 2060,
+    "POP_EST": 4683.166
+  },
+  {
+    "ISO3 Alpha-code": "CZE",
+    "Region, subregion, country or area *": "Czechia",
+    "Year": 2060,
+    "POP_EST": 10605.292
+  },
+  {
+    "ISO3 Alpha-code": "HUN",
+    "Region, subregion, country or area *": "Hungary",
+    "Year": 2060,
+    "POP_EST": 8437.691
+  },
+  {
+    "ISO3 Alpha-code": "POL",
+    "Region, subregion, country or area *": "Poland",
+    "Year": 2060,
+    "POP_EST": 32845.974
+  },
+  {
+    "ISO3 Alpha-code": "MDA",
+    "Region, subregion, country or area *": "Republic of Moldova",
+    "Year": 2060,
+    "POP_EST": 2916.858
+  },
+  {
+    "ISO3 Alpha-code": "ROU",
+    "Region, subregion, country or area *": "Romania",
+    "Year": 2060,
+    "POP_EST": 16587.677
+  },
+  {
+    "ISO3 Alpha-code": "RUS",
+    "Region, subregion, country or area *": "Russian Federation",
+    "Year": 2060,
+    "POP_EST": 128239.607
+  },
+  {
+    "ISO3 Alpha-code": "SVK",
+    "Region, subregion, country or area *": "Slovakia",
+    "Year": 2060,
+    "POP_EST": 4953.701
+  },
+  {
+    "ISO3 Alpha-code": "UKR",
+    "Region, subregion, country or area *": "Ukraine",
+    "Year": 2060,
+    "POP_EST": 29920.086
+  },
+  {
+    "ISO3 Alpha-code": "DNK",
+    "Region, subregion, country or area *": "Denmark",
+    "Year": 2060,
+    "POP_EST": 6571.431
+  },
+  {
+    "ISO3 Alpha-code": "EST",
+    "Region, subregion, country or area *": "Estonia",
+    "Year": 2060,
+    "POP_EST": 1106.657
+  },
+  {
+    "ISO3 Alpha-code": "FIN",
+    "Region, subregion, country or area *": "Finland",
+    "Year": 2060,
+    "POP_EST": 5375.714
+  },
+  {
+    "ISO3 Alpha-code": "ISL",
+    "Region, subregion, country or area *": "Iceland",
+    "Year": 2060,
+    "POP_EST": 408.791
+  },
+  {
+    "ISO3 Alpha-code": "IRL",
+    "Region, subregion, country or area *": "Ireland",
+    "Year": 2060,
+    "POP_EST": 5789.423
+  },
+  {
+    "ISO3 Alpha-code": "LVA",
+    "Region, subregion, country or area *": "Latvia",
+    "Year": 2060,
+    "POP_EST": 1320.845
+  },
+  {
+    "ISO3 Alpha-code": "LTU",
+    "Region, subregion, country or area *": "Lithuania",
+    "Year": 2060,
+    "POP_EST": 2028.236
+  },
+  {
+    "ISO3 Alpha-code": "NOR",
+    "Region, subregion, country or area *": "Norway",
+    "Year": 2060,
+    "POP_EST": 6563.388
+  },
+  {
+    "ISO3 Alpha-code": "SWE",
+    "Region, subregion, country or area *": "Sweden",
+    "Year": 2060,
+    "POP_EST": 12238.301
+  },
+  {
+    "ISO3 Alpha-code": "GBR",
+    "Region, subregion, country or area *": "United Kingdom",
+    "Year": 2060,
+    "POP_EST": 71734.384
+  },
+  {
+    "ISO3 Alpha-code": "ALB",
+    "Region, subregion, country or area *": "Albania",
+    "Year": 2060,
+    "POP_EST": 2229.83
+  },
+  {
+    "ISO3 Alpha-code": "BIH",
+    "Region, subregion, country or area *": "Bosnia and Herzegovina",
+    "Year": 2060,
+    "POP_EST": 2533.507
+  },
+  {
+    "ISO3 Alpha-code": "HRV",
+    "Region, subregion, country or area *": "Croatia",
+    "Year": 2060,
+    "POP_EST": 3080.347
+  },
+  {
+    "ISO3 Alpha-code": "GRC",
+    "Region, subregion, country or area *": "Greece",
+    "Year": 2060,
+    "POP_EST": 8539.886
+  },
+  {
+    "ISO3 Alpha-code": "ITA",
+    "Region, subregion, country or area *": "Italy",
+    "Year": 2060,
+    "POP_EST": 48445.42
+  },
+  {
+    "ISO3 Alpha-code": "XKX",
+    "Region, subregion, country or area *": "Kosovo (under UNSC res. 1244)",
+    "Year": 2060,
+    "POP_EST": 1580.453
+  },
+  {
+    "ISO3 Alpha-code": "MNE",
+    "Region, subregion, country or area *": "Montenegro",
+    "Year": 2060,
+    "POP_EST": 561.899
+  },
+  {
+    "ISO3 Alpha-code": "MKD",
+    "Region, subregion, country or area *": "North Macedonia",
+    "Year": 2060,
+    "POP_EST": 1790.802
+  },
+  {
+    "ISO3 Alpha-code": "PRT",
+    "Region, subregion, country or area *": "Portugal",
+    "Year": 2060,
+    "POP_EST": 8712.8
+  },
+  {
+    "ISO3 Alpha-code": "SRB",
+    "Region, subregion, country or area *": "Serbia",
+    "Year": 2060,
+    "POP_EST": 5265.792
+  },
+  {
+    "ISO3 Alpha-code": "SVN",
+    "Region, subregion, country or area *": "Slovenia",
+    "Year": 2060,
+    "POP_EST": 1924.055
+  },
+  {
+    "ISO3 Alpha-code": "ESP",
+    "Region, subregion, country or area *": "Spain",
+    "Year": 2060,
+    "POP_EST": 41424.917
+  },
+  {
+    "ISO3 Alpha-code": "AUT",
+    "Region, subregion, country or area *": "Austria",
+    "Year": 2060,
+    "POP_EST": 8701.866
+  },
+  {
+    "ISO3 Alpha-code": "BEL",
+    "Region, subregion, country or area *": "Belgium",
+    "Year": 2060,
+    "POP_EST": 11989.038
+  },
+  {
+    "ISO3 Alpha-code": "FRA",
+    "Region, subregion, country or area *": "France",
+    "Year": 2060,
+    "POP_EST": 64954.444
+  },
+  {
+    "ISO3 Alpha-code": "DEU",
+    "Region, subregion, country or area *": "Germany",
+    "Year": 2060,
+    "POP_EST": 76266.062
+  },
+  {
+    "ISO3 Alpha-code": "LUX",
+    "Region, subregion, country or area *": "Luxembourg",
+    "Year": 2060,
+    "POP_EST": 807.676
+  },
+  {
+    "ISO3 Alpha-code": "NLD",
+    "Region, subregion, country or area *": "Netherlands",
+    "Year": 2060,
+    "POP_EST": 17613.794
+  },
+  {
+    "ISO3 Alpha-code": "CHE",
+    "Region, subregion, country or area *": "Switzerland",
+    "Year": 2060,
+    "POP_EST": 9883.835
+  },
+  {
+    "ISO3 Alpha-code": "BHS",
+    "Region, subregion, country or area *": "Bahamas",
+    "Year": 2060,
+    "POP_EST": 446.421
+  },
+  {
+    "ISO3 Alpha-code": "CUB",
+    "Region, subregion, country or area *": "Cuba",
+    "Year": 2060,
+    "POP_EST": 9286.7
+  },
+  {
+    "ISO3 Alpha-code": "DOM",
+    "Region, subregion, country or area *": "Dominican Republic",
+    "Year": 2060,
+    "POP_EST": 13376.023
+  },
+  {
+    "ISO3 Alpha-code": "HTI",
+    "Region, subregion, country or area *": "Haiti",
+    "Year": 2060,
+    "POP_EST": 15847.808
+  },
+  {
+    "ISO3 Alpha-code": "JAM",
+    "Region, subregion, country or area *": "Jamaica",
+    "Year": 2060,
+    "POP_EST": 2235.4
+  },
+  {
+    "ISO3 Alpha-code": "PRI",
+    "Region, subregion, country or area *": "Puerto Rico",
+    "Year": 2060,
+    "POP_EST": 2447.746
+  },
+  {
+    "ISO3 Alpha-code": "TTO",
+    "Region, subregion, country or area *": "Trinidad and Tobago",
+    "Year": 2060,
+    "POP_EST": 1415.03
+  },
+  {
+    "ISO3 Alpha-code": "BLZ",
+    "Region, subregion, country or area *": "Belize",
+    "Year": 2060,
+    "POP_EST": 564.458
+  },
+  {
+    "ISO3 Alpha-code": "CRI",
+    "Region, subregion, country or area *": "Costa Rica",
+    "Year": 2060,
+    "POP_EST": 5632.193
+  },
+  {
+    "ISO3 Alpha-code": "SLV",
+    "Region, subregion, country or area *": "El Salvador",
+    "Year": 2060,
+    "POP_EST": 6449.575
+  },
+  {
+    "ISO3 Alpha-code": "GTM",
+    "Region, subregion, country or area *": "Guatemala",
+    "Year": 2060,
+    "POP_EST": 26050.184
+  },
+  {
+    "ISO3 Alpha-code": "HND",
+    "Region, subregion, country or area *": "Honduras",
+    "Year": 2060,
+    "POP_EST": 15035.657
+  },
+  {
+    "ISO3 Alpha-code": "MEX",
+    "Region, subregion, country or area *": "Mexico",
+    "Year": 2060,
+    "POP_EST": 142951.394
+  },
+  {
+    "ISO3 Alpha-code": "NIC",
+    "Region, subregion, country or area *": "Nicaragua",
+    "Year": 2060,
+    "POP_EST": 9485.579
+  },
+  {
+    "ISO3 Alpha-code": "PAN",
+    "Region, subregion, country or area *": "Panama",
+    "Year": 2060,
+    "POP_EST": 5994.997
+  },
+  {
+    "ISO3 Alpha-code": "ARG",
+    "Region, subregion, country or area *": "Argentina",
+    "Year": 2060,
+    "POP_EST": 52257.387
+  },
+  {
+    "ISO3 Alpha-code": "BOL",
+    "Region, subregion, country or area *": "Bolivia (Plurinational State of)",
+    "Year": 2060,
+    "POP_EST": 17617.299
+  },
+  {
+    "ISO3 Alpha-code": "BRA",
+    "Region, subregion, country or area *": "Brazil",
+    "Year": 2060,
+    "POP_EST": 227276.325
+  },
+  {
+    "ISO3 Alpha-code": "CHL",
+    "Region, subregion, country or area *": "Chile",
+    "Year": 2060,
+    "POP_EST": 20371.258
+  },
+  {
+    "ISO3 Alpha-code": "COL",
+    "Region, subregion, country or area *": "Colombia",
+    "Year": 2060,
+    "POP_EST": 56513.825
+  },
+  {
+    "ISO3 Alpha-code": "ECU",
+    "Region, subregion, country or area *": "Ecuador",
+    "Year": 2060,
+    "POP_EST": 22948.157
+  },
+  {
+    "ISO3 Alpha-code": "FLK",
+    "Region, subregion, country or area *": "Falkland Islands (Malvinas)",
+    "Year": 2060,
+    "POP_EST": 3.592
+  },
+  {
+    "ISO3 Alpha-code": "GUY",
+    "Region, subregion, country or area *": "Guyana",
+    "Year": 2060,
+    "POP_EST": 865.301
+  },
+  {
+    "ISO3 Alpha-code": "PRY",
+    "Region, subregion, country or area *": "Paraguay",
+    "Year": 2060,
+    "POP_EST": 8913.217
+  },
+  {
+    "ISO3 Alpha-code": "PER",
+    "Region, subregion, country or area *": "Peru",
+    "Year": 2060,
+    "POP_EST": 43438.836
+  },
+  {
+    "ISO3 Alpha-code": "SUR",
+    "Region, subregion, country or area *": "Suriname",
+    "Year": 2060,
+    "POP_EST": 739.342
+  },
+  {
+    "ISO3 Alpha-code": "URY",
+    "Region, subregion, country or area *": "Uruguay",
+    "Year": 2060,
+    "POP_EST": 3218.573
+  },
+  {
+    "ISO3 Alpha-code": "VEN",
+    "Region, subregion, country or area *": "Venezuela (Bolivarian Republic of)",
+    "Year": 2060,
+    "POP_EST": 36810.512
+  },
+  {
+    "ISO3 Alpha-code": "CAN",
+    "Region, subregion, country or area *": "Canada",
+    "Year": 2060,
+    "POP_EST": 47548.32
+  },
+  {
+    "ISO3 Alpha-code": "GRL",
+    "Region, subregion, country or area *": "Greenland",
+    "Year": 2060,
+    "POP_EST": 51.849
+  },
+  {
+    "ISO3 Alpha-code": "USA",
+    "Region, subregion, country or area *": "United States of America",
+    "Year": 2060,
+    "POP_EST": 380584.28
+  },
+  {
+    "ISO3 Alpha-code": "AUS",
+    "Region, subregion, country or area *": "Australia",
+    "Year": 2060,
+    "POP_EST": 33675.364
+  },
+  {
+    "ISO3 Alpha-code": "NZL",
+    "Region, subregion, country or area *": "New Zealand",
+    "Year": 2060,
+    "POP_EST": 6054.025
+  },
+  {
+    "ISO3 Alpha-code": "FJI",
+    "Region, subregion, country or area *": "Fiji",
+    "Year": 2060,
+    "POP_EST": 1117.137
+  },
+  {
+    "ISO3 Alpha-code": "NCL",
+    "Region, subregion, country or area *": "New Caledonia",
+    "Year": 2060,
+    "POP_EST": 362.89
+  },
+  {
+    "ISO3 Alpha-code": "PNG",
+    "Region, subregion, country or area *": "Papua New Guinea",
+    "Year": 2060,
+    "POP_EST": 16131.106
+  },
+  {
+    "ISO3 Alpha-code": "SLB",
+    "Region, subregion, country or area *": "Solomon Islands",
+    "Year": 2060,
+    "POP_EST": 1401.529
+  },
+  {
+    "ISO3 Alpha-code": "VUT",
+    "Region, subregion, country or area *": "Vanuatu",
+    "Year": 2060,
+    "POP_EST": 670.987
+  }
+]

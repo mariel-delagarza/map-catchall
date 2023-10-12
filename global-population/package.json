@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "mcat",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.5.0"
+  },
+  "dependencies": {
+    "lodash.filter": "^4.6.0",
+    "xlsx": "^0.18.5"
+  }
+}
